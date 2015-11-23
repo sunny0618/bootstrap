@@ -27,7 +27,7 @@ To get started, check out <http://getbootstrap.com>!
 
 ## Quick start
 
-Several quick start options are available:
+Several quick start options are currently available:
 
 * [Download the latest release](https://github.com/twbs/bootstrap/archive/v3.3.5.zip).
 * Clone the repo: `git clone https://github.com/twbs/bootstrap.git`.
@@ -38,7 +38,7 @@ Several quick start options are available:
 
 Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
-### What's included
+### What's included in this download
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
